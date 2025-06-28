@@ -24,8 +24,6 @@ This project detects motion using the MPU6050 sensor and controls two servo moto
 
 - `main.ino`: Arduino sketch for MPU6050 initialization, motion detection, and servo control.
 
-- ![image](https://github.com/user-attachments/assets/a3aeeb1e-29e9-4012-b291-b722c0c266bb)
-
 
 ##  Setup Instructions
 
@@ -41,9 +39,10 @@ This project detects motion using the MPU6050 sensor and controls two servo moto
 - Adjust `ROLL_THRESHOLD` and `PITCH_THRESHOLD` for sensitivity.
 - Modify `BASE_SERVO_A` and `BASE_SERVO_B` for different resting angles.
 
-##  Demo
+##  Circuit Connection
 
-> (Insert demonstration image or video here)
+> ![image](https://github.com/user-attachments/assets/39b25795-d63d-48df-9f6e-5beb48aa7850)
+
 
 ##  License
 
